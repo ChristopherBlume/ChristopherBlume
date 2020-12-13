@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Christopher Blume and i am a software engineer. Im am from Germany and currently living in Munich and working for BMW as a fullstack developer.
 <!--
 **ChristopherBlume/ChristopherBlume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
