@@ -6,7 +6,7 @@
   <img  alt="Pic" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 </p> -->
 
-<p>I am currently working for a bavarian car manufacturer as a software engineer! Here you can see some fancy technology i have worked with in my exiting journey of becoming of a fullstack developer! </p>
+<p>I am currently working as a software engineer in munich! Here you can see some fancy technology i have worked with in my exiting journey of becoming of a fullstack developer! </p>
 
 ## Languages and Technologies
 
